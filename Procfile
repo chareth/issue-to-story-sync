@@ -1,0 +1,1 @@
+web: gunicorn issue_to_story_sync:application -b 0.0.0.0:8080
